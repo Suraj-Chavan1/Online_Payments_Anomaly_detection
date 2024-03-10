@@ -5,7 +5,7 @@ import streamlit as st
 import pickle
 
 # Load the model
-with open('D:\ML\deploymodel\Model1.sav', 'rb') as file:
+with open('Model1.sav', 'rb') as file:
     model = pickle.load(file)
 
 # Define the Streamlit app
