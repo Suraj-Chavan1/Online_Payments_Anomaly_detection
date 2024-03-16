@@ -6,11 +6,11 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 # Load the model
 
-model = pickle.load(open('D:\ML\deploymodel\Model1.sav', 'rb'))
+model = pickle.load(open('Model1.sav', 'rb'))
 
-model = pickle.load(open('D:\ML\deploymodel\credit_card.sav', 'rb'))
+model = pickle.load(open('credit_card.sav', 'rb'))
 
-model2 = pickle.load(open("D:\ML\deploymodel\Credit_Score_Classification.sav", 'rb')) 
+model2 = pickle.load(open("Credit_Score_Classification.sav", 'rb')) 
     
 with st.sidebar:
     
