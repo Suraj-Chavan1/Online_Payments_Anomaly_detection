@@ -23,7 +23,7 @@ with st.sidebar:
                           
                           ["Home","Stock Anomaly Detection","Banking Anomaly Detection",
                            'Credit-card Anomaly Detection',
-                           'Credit Score Classification',"Thank You"],
+                           'Credit Score Classification',"Feedback"],
                           icons=["","","",""],
                           default_index=0)
 
@@ -228,10 +228,15 @@ if(selected == 'Credit Score Classification'):
         prediction = model2.predict(features)
         st.success('Predicted Credit Score = {}'.format(prediction[0]))
         
-if selected=="Thank You":
+if selected=="Feedback":
+    
     st.title('Thank You')
     st.write('Hope you had a great experience')
-    st.write('Please provide your valuable feedback')
+    st.write('Please provide your valuable feedback as it would help us greatly in improving in the next hackathons or projects which we will build in future.Thank you very much for taking the time to review our project')
+    st.markdown(
+        "Feedback Form [Link](https://colab.research.google.com/drive/1yCloe-VHQJq1SrBdkzBbbTg_QgcjBRXt?usp=sharing)"
+    )
+
     st.write('This is the only small part of  project which we are thinking to build in future. Please provide us chance to work with you.')  
     st.image('https://t4.ftcdn.net/jpg/05/05/39/07/360_F_505390776_8ilykzGiVSpIjUqdEXFhDY1ACRJZPDRD.jpg')  
     
