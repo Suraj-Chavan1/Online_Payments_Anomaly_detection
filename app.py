@@ -32,7 +32,7 @@ if selected=="Home":
     st.title('Welcome to Barclays')
     st.image('https://www.pymnts.com/wp-content/uploads/2022/07/barclays-copper-stake.jpg')
     st.write('Select the model from the sidebar to make predictions')
-    st.write("1 model is for stock Anomaly  detection")
+    st.write("1st model is for stock Anomaly  detection")
     st.write("2nd model is for Banking Anomaly  Detection")
     st.write("3rd model is for Credit Card Anomaly  Detection")
     st.write("4th model is for Credit Score Classification")
