@@ -35,6 +35,7 @@ With the increasing volume of online transactions, detecting fraudulent activiti
 ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/3bddec7b-3902-420a-8083-cf2bbe0d465f)
 ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/5f6b375e-c2ce-4954-9ec3-53afe27bb821)
 ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/11a0864b-91c8-4f8d-a329-5dda6d7d5a18)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/ba4ab153-ac79-4539-b39e-9f0611cd88ba)
 
 ## Project Structure
 
