@@ -27,6 +27,8 @@ With the increasing volume of online transactions, detecting fraudulent activiti
 - Evaluation metrics for model performance
 - 
 ## Architecture for anomaly Detection  ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/e9706062-5c74-4732-92ea-9ab6d0108ad8)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/1d39c448-e91d-4a77-aa31-51e584d797be)
+
 
 ## Project Structure
 
