@@ -29,6 +29,12 @@ With the increasing volume of online transactions, detecting fraudulent activiti
 ## Architecture for anomaly Detection  ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/e9706062-5c74-4732-92ea-9ab6d0108ad8)
 ![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/1d39c448-e91d-4a77-aa31-51e584d797be)
 
+## Project Images 
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/ec66bb0e-cd86-44f2-a9c3-8e1b14295cf7)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/225a2142-42c4-42af-8fe0-97869364488e)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/3bddec7b-3902-420a-8083-cf2bbe0d465f)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/5f6b375e-c2ce-4954-9ec3-53afe27bb821)
+![image](https://github.com/Suraj-Chavan1/Online_Payments_Anomaly_detection/assets/113795475/11a0864b-91c8-4f8d-a329-5dda6d7d5a18)
 
 ## Project Structure
 
